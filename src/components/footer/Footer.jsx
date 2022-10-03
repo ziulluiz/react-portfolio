@@ -21,7 +21,11 @@ export const Footer = () => {
       <div className="footer_socials">
         <a href="https://www.linkedin.com/in/luis-guzp/"><BsLinkedin/></a>
         <a href="https://github.com/ziulluiz"><BsGithub/></a>
-        <a href=""></a>
+        <a href="https://twitter.com/_Haku13"><BsTwitter/></a>
+      </div>
+
+      <div className="footer_copyright">
+        <small>&copy; Luis Enrique Guzmán Pineda. All rigths reserved.</small>
       </div>
     </footer>
   )
