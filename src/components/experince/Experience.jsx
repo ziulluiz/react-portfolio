@@ -12,39 +12,53 @@ export const Experience = () => {
           <h3>Frontend Development</h3>
           <div className="experience_content">
             <article ClassName='experience_details'>
-              <BsFillPatchCheckFill/>
-              <h4>HTML</h4>
-              <small className='text-ligth'>Experienced</small>
+              <BsFillPatchCheckFill className='experience_details-icon'/>
+              <div>
+                <h4>HTML</h4>
+                <small className='text-ligth'>Experienced</small>
+              </div>
             </article>
             <article ClassName='experience_details'>
-              <BsFillPatchCheckFill/>
-              <h4>CSS</h4>
-              <small className='text-ligth'>Intermediate</small>
+              <BsFillPatchCheckFill className='experience_details-icon'/>
+              <div>
+                <h4>CSS</h4>
+                <small className='text-ligth'>Intermediate</small>
+              </div>
             </article>
             <article ClassName='experience_details'>
-              <BsFillPatchCheckFill/>
-              <h4>JavaScript</h4>
-              <small className='text-ligth'>Intermediate</small>
+              <BsFillPatchCheckFill className='experience_details-icon'/>
+              <div>
+                <h4>JavaScript</h4>
+                <small className='text-ligth'>Intermediate</small>
+              </div>
             </article>
             <article ClassName='experience_details'>
-              <BsFillPatchCheckFill/>
-              <h4>Bootstrap</h4>
-              <small className='text-ligth'>Experienced</small>
+              <BsFillPatchCheckFill className='experience_details-icon'/>
+              <div>
+                <h4>Bootstrap</h4>
+                <small className='text-ligth'>Experienced</small>
+              </div>
             </article>
             <article ClassName='experience_details'>
-              <BsFillPatchCheckFill/>
-              <h4>Tailwind</h4>
-              <small className='text-ligth'>Intermediate</small>
+              <BsFillPatchCheckFill className='experience_details-icon'/>
+              <div>
+                <h4>Tailwind</h4>
+                <small className='text-ligth'>Intermediate</small>
+              </div>
             </article>
             <article ClassName='experience_details'>
-              <BsFillPatchCheckFill/>
-              <h4>React</h4>
-              <small className='text-ligth'>Intermediate</small>
+              <BsFillPatchCheckFill className='experience_details-icon'/>
+              <div>
+                <h4>React</h4>
+                <small className='text-ligth'>Intermediate</small>
+              </div>
             </article>
             <article ClassName='experience_details'>
-              <BsFillPatchCheckFill/>
-              <h4>Next JS</h4>
-              <small className='text-ligth'>Intermediate</small>
+              <BsFillPatchCheckFill className='experience_details-icon'/>
+              <div>
+                <h4>Next JS</h4>
+                <small className='text-ligth'>Intermediate</small>
+              </div>
             </article>
           </div>
         </div>
@@ -53,24 +67,32 @@ export const Experience = () => {
           <h3>Backend Development</h3>
             <div className="experience_content">
               <article ClassName='experience_details'>
-                <BsFillPatchCheckFill/>
-                <h4>Ruby on Rails</h4>
-                <small className='text-ligth'>Intermediate</small>
+                <BsFillPatchCheckFill className='experience_details-icon'/>
+                <div>
+                  <h4>Ruby on Rails</h4>
+                  <small className='text-ligth'>Intermediate</small>
+                </div>
               </article>
               <article ClassName='experience_details'>
-                <BsFillPatchCheckFill/>
-                <h4>MySQL</h4>
-                <small className='text-ligth'>Intermediate</small>
+                <BsFillPatchCheckFill className='experience_details-icon'/>
+                <div>
+                  <h4>MySQL</h4>
+                  <small className='text-ligth'>Intermediate</small>
+                </div>
               </article>
               <article ClassName='experience_details'>
-                <BsFillPatchCheckFill/>
-                <h4>PostgreSQL</h4>
-                <small className='text-ligth'>Intermediate</small>
+                <BsFillPatchCheckFill className='experience_details-icon'/>
+                <div>
+                  <h4>PostgreSQL</h4>
+                  <small className='text-ligth'>Intermediate</small>
+                </div>
               </article>
               <article ClassName='experience_details'>
-                <BsFillPatchCheckFill/>
-                <h4>Phyton</h4>
-                <small className='text-ligth'>Beginner</small>
+                <BsFillPatchCheckFill className='experience_details-icon'/>
+                <div>
+                  <h4>Phyton</h4>
+                  <small className='text-ligth'>Beginner</small>
+                </div>
               </article>
             </div>
         </div>
